@@ -1,2 +1,16 @@
 # Detect-It-Easy-ADDONS
-Own Addons for DiE[Detect-It-Easy]
+DiE addons
+
+
+<sub>
+  
+  ## LEGEND
+  
+  ### Categories
+  - `AUTOMATION ADDONS`
+  
+  - `CRYPTO ADDONS`
+  
+  - `UTILS ADDONS`
+
+</sub>
